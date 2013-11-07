@@ -1,0 +1,9 @@
+[core]
+	editor = vim
+[user]
+	name = Marcos Medrano
+        email = marcosmedrano0@gmail.com
+[credential "https://github.com"]
+        username = marcosmedrano0
+[color]
+	ui = true
